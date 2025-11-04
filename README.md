@@ -4,7 +4,7 @@ Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencia
 
 <p align="left">
   <a href="https://twitter.com/ZaoGaboo" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://instagram.com/zaogabo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -16,10 +16,10 @@ Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencia
 
 ## Lo que hago ahora
 
-- Profundizo en arquitectura de software y buenas prácticas de ingeniería.
-- Trabajo con IA aplicada a automatización y análisis de datos.
-- Desarrollo herramientas enfocadas en gamers competitivos, como Sensai Games.
-- Busco colaborar con proyectos que mezclen data, interacción y comunidad.
+- Actualmente estoy aprendiendo sobre arquitectura de software y buenas prácticas de ingeniería.
+- Me interesa cómo la inteligencia artificial puede apoyar la automatización y el análisis de datos.
+- He creado proyectos enfocados en gamers competitivos, como Sensai Games.
+- Busco involucrarme en proyectos que mezclen datos, interacción y comunidad.
 
 ## Tech stack
 
