@@ -3,7 +3,7 @@
 Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencias web y móviles con foco en datos, automatización y gaming competitivo.
 
 <p align="left">
-  <a href="https://twitter.com/ZaoGaboo" target="_blank">
+  <a href="https://x.com/ZaoGaboo" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://instagram.com/zaogabo" target="_blank">
@@ -26,50 +26,94 @@ Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencia
 **Lenguajes principales**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://openjdk.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
 </p>
 
 **Frameworks y herramientas favoritas**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
 </p>
 
 **Aprendiendo y experimentando**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
 </p>
 
 ## Proyectos destacados
 
 <details open>
-  <summary><strong>Sensai Games</strong></summary>
-  <p>Guía para ajustar la sensibilidad del mouse en Valorant con cálculos, recomendaciones y entrenamientos específicos para ranked, scrims y LAN.</p>
-  <p>Enlace: <a href="https://www.sensai.games/" target="_blank">https://www.sensai.games/</a></p>
+  <summary><strong>Sensai Games</strong> · Guía competitiva para Valorant</summary>
+  <p>Sitio público que reúne cálculos, tablas de sensibilidad y rutinas de práctica para jugadores que buscan consistencia en ranked, scrims y LAN. Mantengo las recomendaciones con ajustes periódicos tras pruebas dentro del juego.</p>
+  <p><strong>URL:</strong> <a href="https://www.sensai.games/" target="_blank">https://www.sensai.games/</a></p>
 </details>
 
 <details>
-  <summary><strong>Custom Character Recognition</strong></summary>
-  <p>Red neuronal en NumPy puro para clasificar 52 caracteres (A-Z, mayúsculas/minúsculas) con generación sintética, augmentación, L2, dropout e interfaz Streamlit.</p>
-  <p>Repositorio: <a href="https://github.com/ZaoGabo/custom-char-recognition" target="_blank">custom-char-recognition</a></p>
+  <summary><strong>ZaoShop</strong> · E-commerce universitario en evolución</summary>
+  <p>Proyecto del semestre actual en la PUCE orientado a un e-commerce accesible. Parte de un carrito con persistencia (localStorage, sessionStorage, IndexedDB y cookies) y seguirá escalando con nuevas funcionalidades hasta el cierre del curso.</p>
+  <p><strong>Stack:</strong> HTML5 semántico, CSS3 (Grid/Flex), JavaScript ES6 módulos, APIs Web Storage.</p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/Pagina-Web-puce-" target="_blank">Pagina-Web-puce-</a></p>
 </details>
 
 <details>
-  <summary><strong>YT-Lab Downloader</strong></summary>
-  <p>Integración Flask + yt-dlp para descargar videos de YouTube desde una interfaz web ligera, enfocada en modularidad y uso educativo responsable.</p>
-  <p>Repositorio: <a href="https://github.com/ZaoGabo/YT-Lab-Downloader" target="_blank">YT-Lab-Downloader</a></p>
+  <summary><strong>Custom Character Recognition</strong> · CNN + Streamlit</summary>
+  <p>Pipeline de computer vision que clasifica 94 caracteres combinando EMNIST y datos sintéticos. Incluye entrenamientos automatizados, regularización progresiva y una app Streamlit para pruebas en vivo.</p>
+  <p><strong>Stack:</strong> PyTorch, NumPy, Streamlit, Python 3.10.</p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/custom-char-recognition" target="_blank">custom-char-recognition</a></p>
+</details>
+
+<details>
+  <summary><strong>YT-Lab Downloader</strong> · Laboratorio Flask + yt-dlp</summary>
+  <p>Aplicación educativa que explora la descarga controlada de videos con una interfaz Flask modular. Documenta advertencias legales, pruebas manuales y empaqueta el backend para entornos locales.</p>
+  <p><strong>Stack:</strong> Flask, yt-dlp, Bootstrap ligero.</p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/YT-Lab-Downloader" target="_blank">YT-Lab-Downloader</a></p>
+</details>
+
+<details>
+  <summary><strong>Encuentra las Diferencias</strong> · Mini juego con React</summary>
+  <p>Juego web creado con Vite que combina temporizador, sistema de puntuación y editor de marcadores interno. El despliegue se automatiza a GitHub Pages mediante GitHub Actions.</p>
+  <p><strong>Stack:</strong> React, Vite, Tailwind por CDN.</p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/ZaoGabo.github.io" target="_blank">ZaoGabo.github.io</a> · <a href="https://zaogabo.github.io/" target="_blank">demo en GitHub Pages</a></p>
 </details>
 
 ## Estadísticas y widgets en vivo
