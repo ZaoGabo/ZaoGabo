@@ -2,6 +2,8 @@
 
 Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencias web y móviles con foco en datos, automatización y gaming competitivo.
 
+🌐 **Portfolio:** [zaogabo.me](https://zaogabo.me)
+
 <p align="left">
   <a href="https://x.com/ZaoGaboo" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -96,9 +98,9 @@ Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencia
 </details>
 
 <details>
-  <summary><strong>Custom Character Recognition</strong> · CNN + Streamlit</summary>
-  <p>Pipeline de computer vision que clasifica 94 caracteres combinando EMNIST y datos sintéticos. Incluye entrenamientos automatizados, regularización progresiva y una app Streamlit para pruebas en vivo.</p>
-  <p><strong>Stack:</strong> PyTorch, NumPy, Streamlit, Python 3.10.</p>
+  <summary><strong>Custom Character Recognition</strong> · CNN v2 + API</summary>
+  <p>Sistema de reconocimiento de caracteres manuscritos con CNN v2 fine-tuned sobre EMNIST y datos sintéticos. Clasifica 94 clases (mayúsculas, minúsculas, dígitos y símbolos) con 83.80% de precisión en validación. Incluye aplicación web Streamlit, API REST con FastAPI y pipeline robusto de entrenamiento.</p>
+  <p><strong>Stack:</strong> PyTorch 2.x, FastAPI, Streamlit, NumPy, Python 3.11.</p>
   <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/custom-char-recognition" target="_blank">custom-char-recognition</a></p>
 </details>
 
@@ -113,10 +115,23 @@ Estudiante de Ingeniería en Sistemas en la PUCE. Me gusta construir experiencia
   <summary><strong>Encuentra las Diferencias</strong> · Mini juego con React</summary>
   <p>Juego web creado con Vite que combina temporizador, sistema de puntuación y editor de marcadores interno. El despliegue se automatiza a GitHub Pages mediante GitHub Actions.</p>
   <p><strong>Stack:</strong> React, Vite, Tailwind por CDN.</p>
-  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/ZaoGabo.github.io" target="_blank">ZaoGabo.github.io</a> · <a href="https://zaogabo.github.io/" target="_blank">demo en GitHub Pages</a></p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/encuentra-las-diferencias-web" target="_blank">encuentra-las-diferencias-web</a> · <a href="https://zaogabo.github.io/" target="_blank">demo en GitHub Pages</a></p>
+</details>
+
+<details>
+  <summary><strong>TimoBot</strong> · Asistente conversacional inteligente</summary>
+  <p>Aplicación móvil desarrollada con React Native (Expo) que integra la API de Perplexity para ofrecer respuestas contextuales. Incluye personalización de temas, historial de conversaciones, saludos personalizados y almacenamiento local.</p>
+  <p><strong>Stack:</strong> React Native, Expo, Perplexity AI, AsyncStorage.</p>
+  <p><strong>Repositorio:</strong> <a href="https://github.com/ZaoGabo/TimoBot" target="_blank">TimoBot</a></p>
 </details>
 
 ## Estadísticas y widgets en vivo
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaoGabo&theme=radical" alt="GitHub Streak de ZaoGabo"/>
+</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZaoGabo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub de ZaoGabo"/>
